@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "European Dream",
+        "duration": "10 Days",
+        "price": "$2,200",
+        "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?q=80&w=800&auto=format&fit=crop",
+        "features": [
+            "Flights Included",
+            "4-Star Hotels",
+            "Guided Tours",
+            "Breakfast Daily"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Asian Adventure",
+        "duration": "14 Days",
+        "price": "$1,900",
+        "image": "https://images.unsplash.com/photo-1464817739973-0128fe77aaa1?q=80&w=800&auto=format&fit=crop",
+        "features": [
+            "3 Countries",
+            "Local Transport",
+            "Cultural Activities",
+            "24/7 Support"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Safari Expedition",
+        "duration": "7 Days",
+        "price": "$3,000",
+        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?q=80&w=800&auto=format&fit=crop",
+        "features": [
+            "Game Drives",
+            "Luxury Lodges",
+            "Park Fees",
+            "Expert Guides"
+        ]
+    }
+]

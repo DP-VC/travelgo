@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Santorini, Greece",
+    "location": "Greece",
+    "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?q=80&w=800&auto=format&fit=crop",
+    "price": "$1,200",
+    "description": "Experience the stunning sunsets and white-washed architecture of Santorini."
+  },
+  {
+    "id": 2,
+    "title": "Kyoto, Japan",
+    "location": "Japan",
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=800&auto=format&fit=crop",
+    "price": "$1,800",
+    "description": "Immerse yourself in the ancient culture and beautiful temples of Kyoto."
+  },
+  {
+    "id": 3,
+    "title": "Machu Picchu, Peru",
+    "location": "Peru",
+    "image": "https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=800&auto=format&fit=crop",
+    "price": "$1,500",
+    "description": "Discover the lost city of the Incas high in the Andes Mountains."
+  },
+  {
+    "id": 4,
+    "title": "Maldives",
+    "location": "Maldives",
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?q=80&w=800&auto=format&fit=crop",
+    "price": "$2,500",
+    "description": "Relax in overwater bungalows and crystal clear turquoise waters."
+  },
+  {
+    "id": 5,
+    "title": "Bali, Indonesia",
+    "location": "Indonesia",
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=800&auto=format&fit=crop",
+    "price": "$900",
+    "description": "Explore lush rice terraces, vibrant culture, and stunning beaches."
+  },
+  {
+    "id": 6,
+    "title": "Reykjavik, Iceland",
+    "location": "Iceland",
+    "image": "https://images.unsplash.com/photo-1476610182048-b716b8518aae?q=80&w=800&auto=format&fit=crop",
+    "price": "$1,600",
+    "description": "Witness the Northern Lights and explore dramatic volcanic landscapes."
+  }
+]
